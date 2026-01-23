@@ -2,7 +2,13 @@
 
 Welcome to the Valencia Student Workspace! This workspace is configured with Gemini CLI tools to help you with your programming assignments.
 
-## 1. Prerequisites
+## 1. About Gemini CLI
+
+Gemini CLI is an AI-powered interactive terminal assistant that helps you write code, debug issues, and automate project tasks. It is designed to understand your local codebase and use specialized "skills" to streamline your workflow.
+
+For full documentation and advanced usage, visit: [https://geminicli.com/docs/](https://geminicli.com/docs/)
+
+## 2. Prerequisites
 
 Before you begin, ensure you have the following installed:
 
